@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biyonal College - Student Portal</title>
+    <title>Kevin's College - Student Portal</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -395,14 +395,14 @@ const coursesData = [
 ];
 
 const hodData = [
-    { department: 'Computer Science', name: 'Dr. Rajesh Kumar', contact: '+91-9876543210', email: 'rajesh.kumar@biyonal.edu' },
-    { department: 'Information Technology', name: 'Prof. Priya Sharma', contact: '+91-9876543211', email: 'priya.sharma@biyonal.edu' },
-    { department: 'English', name: 'Dr. Anita Singh', contact: '+91-9876543212', email: 'anita.singh@biyonal.edu' },
-    { department: 'Physics', name: 'Prof. Vikram Patel', contact: '+91-9876543213', email: 'vikram.patel@biyonal.edu' },
-    { department: 'Chemistry', name: 'Dr. Neha Gupta', contact: '+91-9876543214', email: 'neha.gupta@biyonal.edu' },
-    { department: 'Business Administration', name: 'Prof. Arjun Desai', contact: '+91-9876543215', email: 'arjun.desai@biyonal.edu' },
-    { department: 'Civil Engineering', name: 'Dr. Ravi Mendis', contact: '+91-9876543216', email: 'ravi.mendis@biyonal.edu' },
-    { department: 'Mechanical Engineering', name: 'Prof. Sunil Nair', contact: '+91-9876543217', email: 'sunil.nair@biyonal.edu' }
+    { department: 'Computer Science', name: 'Dr. Rajesh Kumar', contact: '+91-9876543210', email: 'rajesh.kumar@Kevin's.edu' },
+    { department: 'Information Technology', name: 'Prof. Priya Sharma', contact: '+91-9876543211', email: 'priya.sharma@Kevin's.edu' },
+    { department: 'English', name: 'Dr. Anita Singh', contact: '+91-9876543212', email: 'anita.singh@Kevin.edu' },
+    { department: 'Physics', name: 'Prof. Vikram Patel', contact: '+91-9876543213', email: 'vikram.patel@Kevin.edu' },
+    { department: 'Chemistry', name: 'Dr. Neha Gupta', contact: '+91-9876543214', email: 'neha.gupta@Kevin.edu' },
+    { department: 'Business Administration', name: 'Prof. Arjun Desai', contact: '+91-9876543215', email: 'arjun.desai@Kevin.edu' },
+    { department: 'Civil Engineering', name: 'Dr. Ravi Mendis', contact: '+91-9876543216', email: 'ravi.mendis@Kevin.edu' },
+    { department: 'Mechanical Engineering', name: 'Prof. Sunil Nair', contact: '+91-9876543217', email: 'sunil.nair@Kevin.edu' }
 ];
 
 let studentsData = [
