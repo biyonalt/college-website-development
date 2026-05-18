@@ -11,7 +11,7 @@
     <div id="loginPage" class="page active">
         <div class="login-container">
             <div class="login-box">
-                <h1>🎓 Biyonal College</h1>
+                <h1>🎓 Kevin's College</h1>
                 <h2>Student Portal Login</h2>
                 <form id="loginForm">
                     <div class="form-group">
@@ -39,7 +39,7 @@
         <!-- NAVBAR -->
         <nav class="navbar">
             <div class="nav-container">
-                <h1 class="logo">🎓 Biyonal College Portal</h1>
+                <h1 class="logo">🎓 Kevin's College Portal</h1>
                 <ul class="nav-links">
                     <li><a href="#" data-page="courses" class="nav-btn">Courses</a></li>
                     <li><a href="#" data-page="hod" class="nav-btn">HOD Directory</a></li>
